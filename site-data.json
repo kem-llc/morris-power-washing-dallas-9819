@@ -1,0 +1,327 @@
+{
+  "business": {
+    "name": "Morris Power Washing",
+    "shortName": "Morris Power Washing",
+    "tagline": "Dallas's Premier Pressure Washing Experts",
+    "niche": "Pressure Washing",
+    "phone": "(469) 989-9819",
+    "address": "19251 Lloyd Cir, Dallas, TX 75252",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri 7am-7pm, Sat 8am-4pm, Sun by appointment",
+    "ctaLabel": "Get Your Free Estimate",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Morris Power Washing | Top-Rated Pressure Washing in Dallas, TX",
+    "description": "Trusted pressure washing services in Dallas, TX. Restore your home's curb appeal with our expert soft wash and power washing. Free estimates. Call now!"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas's Trusted Pressure Washing Company",
+      "headline": "Restore Your Home's Beauty with Professional Power Washing",
+      "subheadline": "Eco-friendly cleaning that removes dirt, mold, and grime — boosting curb appeal and protecting your property.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "See Our Work"
+    },
+    "stats": [
+      {
+        "value": "5.0",
+        "label": "Star Rating"
+      },
+      {
+        "value": "500+",
+        "label": "Homes Cleaned"
+      },
+      {
+        "value": "15+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "100%",
+        "label": "Satisfaction Guarantee"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Soft Wash vs. Pressure Wash",
+        "title": "The Right Method for Every Surface",
+        "body": "We use low-pressure soft washing for delicate surfaces like roofs and siding, and high-pressure washing for tough stains on concrete. This ensures your property gets a deep clean without damage.",
+        "bullets": [
+          "Soft wash kills mold and algae at the root",
+          "Pressure wash blasts away oil and grime",
+          "Environmentally safe detergents protect landscaping"
+        ],
+        "reverse": false,
+        "cardLabel": "Why It Matters",
+        "cardTitle": "Long-Lasting Results",
+        "cardBody": "Our methods prevent regrowth of organic stains, keeping your home cleaner longer."
+      },
+      {
+        "eyebrow": "Curb Appeal Boost",
+        "title": "Make Your Home the Pride of the Neighborhood",
+        "body": "A clean exterior not only looks great but also prevents costly damage. Our service increases your home's value and makes a strong first impression.",
+        "bullets": [
+          "Removes years of built-up dirt and grime",
+          "Eliminates black streaks on roofs and driveways",
+          "Brightens fences, decks, and patios"
+        ],
+        "reverse": true,
+        "cardLabel": "Real Estate Ready",
+        "cardTitle": "Sell Faster, Sell Higher",
+        "cardBody": "Homes with professional power washing sell for up to 5% more. We help you maximize your investment."
+      }
+    ],
+    "whyTitle": "Why Choose Morris Power Washing?",
+    "whyChooseUs": [
+      {
+        "title": "5-Star Service",
+        "description": "We pride ourselves on delivering exceptional results every time. Our team is friendly, punctual, and thorough."
+      },
+      {
+        "title": "Eco-Friendly Cleaning",
+        "description": "We use biodegradable detergents that are safe for your family, pets, and plants."
+      },
+      {
+        "title": "Fully Insured",
+        "description": "Your property is protected with our comprehensive liability insurance."
+      },
+      {
+        "title": "Free Detailed Estimates",
+        "description": "We provide transparent pricing with no hidden fees. You'll know the cost upfront."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "Our driveway looks brand new! The team was professional and the price was very fair. Highly recommend.",
+        "author": "John D.",
+        "role": "Lakewood homeowner"
+      },
+      {
+        "quote": "They cleaned our entire house and roof. The difference is amazing. No more black streaks!",
+        "author": "Lisa M.",
+        "role": "Preston Hollow resident"
+      },
+      {
+        "quote": "Fast, friendly, and thorough. They even cleaned our walkway at no extra charge. Will use again.",
+        "author": "Carlos R.",
+        "role": "Uptown Dallas"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for a Cleaner Home?",
+      "subheadline": "Schedule your free estimate today and see the Morris difference.",
+      "primaryCta": "Get a Free Quote",
+      "secondaryCta": "Call (469) 989-9819"
+    }
+  },
+  "servicesPage": {
+    "intro": "From driveways to roofs, we offer comprehensive pressure washing services in Dallas. Our trained technicians use the latest equipment to restore your property's appearance and protect its value."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Residential Pressure Washing",
+      "shortDescription": "Full exterior cleaning for your home, including siding, driveways, walkways, and more.",
+      "longDescription": "Our residential pressure washing service revitalizes your home's exterior. We carefully treat every surface — from vinyl siding to brick — using the appropriate pressure and cleaning solutions. The result is a stunning transformation that boosts curb appeal.",
+      "benefits": [
+        "Removes mold, mildew, and algae safely",
+        "Extends the life of paint and siding",
+        "Prepares surfaces for painting or staining"
+      ],
+      "process": [
+        {
+          "title": "Inspection & Estimate",
+          "description": "We assess your home's condition and provide a free, no-obligation quote."
+        },
+        {
+          "title": "Preparation & Protection",
+          "description": "We cover plants, outdoor furniture, and electrical outlets to prevent damage."
+        },
+        {
+          "title": "Professional Cleaning",
+          "description": "Our team applies eco-friendly detergents and pressure washes every area to perfection."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Will pressure washing damage my siding?",
+          "answer": "Not when done correctly. We use low-pressure soft wash for siding to avoid damage while still removing dirt and stains."
+        },
+        {
+          "question": "How often should I have my home pressure washed?",
+          "answer": "We recommend every 1-2 years to maintain appearance and prevent buildup of harmful organic growth."
+        }
+      ],
+      "slug": "residential-pressure-washing"
+    },
+    {
+      "icon": "02",
+      "title": "Driveway & Concrete Cleaning",
+      "shortDescription": "Remove oil stains, tire marks, and embedded dirt from driveways, patios, and sidewalks.",
+      "longDescription": "Concrete surfaces accumulate tough stains over time. Our high-pressure system blasts away years of grime, leaving your driveway looking like new. We also treat garage floors and pool decks.",
+      "benefits": [
+        "Eliminates oil and grease stains",
+        "Brightens dull concrete surfaces",
+        "Prevents slip hazards from algae"
+      ],
+      "process": [
+        {
+          "title": "Pre-Treatment",
+          "description": "We apply a degreaser to break down stubborn stains."
+        },
+        {
+          "title": "Pressure Washing",
+          "description": "Using hot water and high pressure, we remove all dirt and stains."
+        },
+        {
+          "title": "Rinse & Inspection",
+          "description": "We rinse thoroughly and check for any missed spots."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you remove all oil stains?",
+          "answer": "Most oil stains can be removed or significantly lightened. Deep-set stains may require additional treatment."
+        },
+        {
+          "question": "Will pressure washing damage my driveway?",
+          "answer": "No, our equipment is calibrated to clean without etching or cracking concrete."
+        }
+      ],
+      "slug": "driveway-concrete-cleaning"
+    },
+    {
+      "icon": "03",
+      "title": "Roof Soft Washing",
+      "shortDescription": "Gentle cleaning that removes black streaks, moss, and lichen without damaging shingles.",
+      "longDescription": "Roof stains are caused by algae growth. Our soft wash system kills the algae at the root and gently rinses it away. This extends the life of your roof and improves energy efficiency.",
+      "benefits": [
+        "Safe for all roof types (asphalt, tile, metal)",
+        "Eliminates black streaks and moss",
+        "Can increase roof lifespan by years"
+      ],
+      "process": [
+        {
+          "title": "Roof Inspection",
+          "description": "We check for damage and determine the best cleaning method."
+        },
+        {
+          "title": "Soft Wash Application",
+          "description": "We apply a biodegradable algaecide that kills growth without high pressure."
+        },
+        {
+          "title": "Gentle Rinse",
+          "description": "We rinse the roof with low-pressure water, leaving it clean and streak-free."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Does soft washing void my roof warranty?",
+          "answer": "No, soft washing is recommended by many manufacturers and is safe for all shingle types."
+        },
+        {
+          "question": "How long does a roof cleaning last?",
+          "answer": "Typically 2-3 years depending on climate and shade conditions."
+        }
+      ],
+      "slug": "roof-soft-washing"
+    },
+    {
+      "icon": "04",
+      "title": "Commercial Pressure Washing",
+      "shortDescription": "Keep your business looking professional with our commercial cleaning services.",
+      "longDescription": "First impressions matter. We clean storefronts, parking lots, dumpster areas, and more. Our team works around your schedule to minimize disruption.",
+      "benefits": [
+        "Enhances business curb appeal",
+        "Removes gum, graffiti, and stains",
+        "Complies with health and safety standards"
+      ],
+      "process": [
+        {
+          "title": "Site Assessment",
+          "description": "We evaluate your property and provide a customized plan."
+        },
+        {
+          "title": "Scheduled Cleaning",
+          "description": "We clean at a time that works best for your business."
+        },
+        {
+          "title": "Final Walkthrough",
+          "description": "We ensure every area meets our high standards."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you offer recurring service contracts?",
+          "answer": "Yes, we offer monthly, quarterly, and annual plans to keep your property looking its best."
+        },
+        {
+          "question": "Will cleaning disrupt my customers?",
+          "answer": "We work early mornings or evenings to avoid peak hours."
+        }
+      ],
+      "slug": "commercial-pressure-washing"
+    }
+  ],
+  "about": {
+    "headline": "Dallas's Trusted Power Washing Team",
+    "mission": "To provide eco-friendly, high-quality pressure washing services that enhance and protect our clients' properties.",
+    "story": [
+      "Morris Power Washing was founded with a simple mission: deliver the best exterior cleaning in Dallas. Starting with just a truck and a pressure washer, we built a reputation for reliability and excellence. Every job is treated with the same care — whether it's a small bungalow or a large estate.",
+      "Today, we serve hundreds of homeowners and businesses across Dallas. Our team is fully trained, insured, and committed to using the safest cleaning methods. We believe in doing the job right the first time, and our 5.0 rating proves it."
+    ],
+    "highlight": {
+      "stat": "500+",
+      "label": "Properties Cleaned"
+    },
+    "coreValues": [
+      {
+        "title": "Quality",
+        "description": "We never cut corners. Every surface is cleaned to perfection."
+      },
+      {
+        "title": "Integrity",
+        "description": "Transparent pricing and honest communication — always."
+      },
+      {
+        "title": "Respect",
+        "description": "We treat your property and time with the utmost respect."
+      },
+      {
+        "title": "Environment",
+        "description": "We use green cleaning products to protect our community."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch",
+    "subheadline": "Ready to transform your property? Call or fill out the form for a free estimate.",
+    "primaryCta": "Call (469) 989-9819",
+    "formCta": "Get a Free Quote",
+    "serviceAreas": [
+      "Dallas",
+      "Plano",
+      "Richardson",
+      "Garland",
+      "Addison",
+      "Carrollton",
+      "Frisco",
+      "Allen",
+      "McKinney",
+      "Highland Park",
+      "University Park"
+    ]
+  },
+  "social_proof": {
+    "rating": 5.0,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Pressure Washing",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:4699899819",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
